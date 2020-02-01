@@ -1,0 +1,1 @@
+﻿$(document).ready(function () { jQuery.browser.mobile || initQtip(), $("img.lazy").lazyload({ effect: "fadeIn" }) });
